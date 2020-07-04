@@ -28,7 +28,7 @@ python2 Attack.py
 
 User Name : XIDI
 Password   : XIDI
-⭕No 5
+⭕No 3
 apt update
 apt upgrade
 pkg install python
@@ -42,7 +42,7 @@ python2 Attack.py
 
 User Name : XIDI
 Password   : XIDI
-⭕No 5
+⭕No 4
 apt update
 apt upgrade
 pkg install python
